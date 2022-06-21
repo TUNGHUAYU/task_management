@@ -1,0 +1,7 @@
+## default variables that utils tool will source it
+
+TOPDIR=/home/terry/Documents/task_management
+
+OUT_TASKTABLE=${TOPDIR}/table/table.csv
+
+
